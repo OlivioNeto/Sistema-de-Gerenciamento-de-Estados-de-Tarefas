@@ -3,32 +3,31 @@
   Este projeto consiste no desenvolvimento de um sistema de gerenciamento de tarefas em C#, utilizando o padrão de projeto State para gerenciar as mudanças de estado das tarefas. O sistema permite que as tarefas alterem seu estado entre Criado, Em Progresso, Concluído e Cancelado. Essas transições de estado são realizadas por meio de solicitações feitas na camada de controller, que atua como intermediária entre a interface do usuário e a lógica de negócios. O projeto é programado em inglês, garantindo uma maior acessibilidade e padronização para desenvolvedores em diferentes regiões. O uso do padrão State oferece uma forma flexível e organizada de gerenciar os diferentes estados das tarefas, promovendo uma manutenção mais fácil e uma melhor escalabilidade do código.
 </p>
 
- ## 🚨 Requisitos do Sistema
+ ## 🚨 Modelagem do Sistema
 
 ### Padrão State
-- Utilização do padrão State para estados de tarefas.
-- Estados: Created, In Progress, Completed, Cancel.
-- Classe Task com id, name, description.
+- Foi utilizado esse padrão para a criação dos estados da tarefas.
+- Estados: Criado, Em Progresso, Completado, Cancelado.
+- Classe Task com Id, Nome, Descricao.
 
 ### Endpoints RESTful
 - POST /tasks (Cria a tarefa)
 - Estados:
-<br> PUT /tasks/{id}/start (Inicia a tarefa)
-<br> PUT /tasks/{id}/complete (Conclui a tarefa)
-<br> PUT /tasks/{id}/cancel (Cancela a tarefa)
-<br> GET /tasks/{id} (Pesquisa)
+<br> GET /Task/{id} (Pesquisa)
+<br> PUT /Task/{id}/Começar (Iniciar a tarefa)
+<br> PUT /Task/{id}/Completo (Conclui a tarefa)
+<br> PUT /Task/{id}/Cancelado (Cancela a tarefa)
 
 ### Persistência de Dados
-- Utilização do Entity Framework.
+- Foi utilizado o Entity Framework.
 
 <hr/>
 
 
 <br/>
 
-## ☕ Usando o Sistema de Gerenciamento de Estados de Tarefas
+## ☕ Para usar o Sistema de Gerenciamento de Estados de Tarefas
 
-Para usar esse projeto, siga estas etapas:
 <br> 📌 Baixe ou clone esse repositório
 <br> 📌 Utilize a IDE que você está acostumada(o) para acessar os códigos
 <br> 📌 No terminal digite o comando para criar o banco de dados:
@@ -38,8 +37,8 @@ Para usar esse projeto, siga estas etapas:
   ```
 ### ⚠ Atenção 
 
-<br> ❗ O projeto já vem com uma migration de criação de banco, se não tiver digite os comandos para criar o banco de dados:
-  ```
+<br> ❗ Caso você baixe ou clone o repositório, ele vem com uma migration própria. Imporntante que você apague as migrations e gere uma nova com o código:
+```
   add-migration teste
 --
   update-database
