@@ -1,0 +1,43 @@
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.exe
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.deps.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.runtimeconfig.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.pdb
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets\msbuild.Sistema de Gerenciamento de Estados de Tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets\msbuild.build.Sistema de Gerenciamento de Estados de Tarefas.props
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Gerenciamento de Estados de Tarefas.props
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Sistema de Gerenciamento de Estados de Tarefas.props
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\scopedcss\bundle\Sistema de Gerenciamento de Estados de Tarefas.styles.css
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\refint\Sistema de Gerenciamento de Estados de Tarefas.dll
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.pdb
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\Sistema de Gerenciamento de Estados de Tarefas.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Sistema de Gerenciamento de Estados de Tarefas\Sistema de Gerenciamento de Estados de Tarefas\obj\Debug\net7.0\ref\Sistema de Gerenciamento de Estados de Tarefas.dll
