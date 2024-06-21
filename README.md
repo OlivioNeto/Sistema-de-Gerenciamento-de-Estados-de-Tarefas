@@ -1,1 +1,4 @@
 # Sistema-de-Gerenciamento-de-Estados-de-Tarefas
+<p>
+  Este projeto consiste no desenvolvimento de um sistema de gerenciamento de tarefas em C#, utilizando o padrão de projeto State para gerenciar as mudanças de estado das tarefas. O sistema permite que as tarefas alterem seu estado entre Criado, Em Progresso, Concluído e Cancelado. Essas transições de estado são realizadas por meio de solicitações feitas na camada de controller, que atua como intermediária entre a interface do usuário e a lógica de negócios. O projeto é programado em inglês, garantindo uma maior acessibilidade e padronização para desenvolvedores em diferentes regiões. O uso do padrão State oferece uma forma flexível e organizada de gerenciar os diferentes estados das tarefas, promovendo uma manutenção mais fácil e uma melhor escalabilidade do código.
+</p>
